@@ -8,4 +8,4 @@ Tapatalk for Android - Issues Tracking. Please observe the following rules:
 - Please include screenshots if it is UI related
 - Don't hijack other issues, create a new one if you believe they are different.
 
-Ready Here is the issue List: https://github.com/tapatalk/android-issues/issues
+Ready? Issue List: https://github.com/tapatalk/android-issues/issues
